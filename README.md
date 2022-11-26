@@ -1,2 +1,3 @@
-# com.knightgame.br.KnightGame
-A super-duper simple game for school project
+# KnightGame
+
+Um simples jogo para o projeto.
